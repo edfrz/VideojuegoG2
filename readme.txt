@@ -1,6 +1,9 @@
 
 Chapter 10. Audio Synthesis
 
+El profe sabe mucho de Git.
+¡Gracias!
+
 From:
   Killer Game Programming in Java
   Andrew Davison
