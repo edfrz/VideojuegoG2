@@ -1,4 +1,4 @@
-
+VERSION DE EDGAR
 Chapter 10. Audio Synthesis
 
 El profe sabe mucho de Git.
