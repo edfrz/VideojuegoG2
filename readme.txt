@@ -1,4 +1,4 @@
-
+VERSION DE EDGAR
 Chapter 10. Audio Synthesis
 
 From:
