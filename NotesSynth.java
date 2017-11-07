@@ -1,6 +1,7 @@
 
 // NotesSynth.java
 // Andrew Davison, April 2005, ad@fivedots.coe.psu.ac.th
+// Hola Me llamo César
 
 /* NotesSynth opens a stereo, signed PCM output line, using 16 bits per
    sample in little endian format. Four bytes will be used for each 
